@@ -3,7 +3,7 @@
 ## Description
 20,000 Image Caption Data Of Vehicles covers various types of cars, SUVs, MPVs, trucks, and buses. Surveillance cameras are used to collect outdoor roads for multiple periods of time, mainly describing the types of vehicles. Information such as color, vehicle orientation, scene, etc., the description language is English.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1284?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/llm/1284?source=Github
 
 
 ## Data size
